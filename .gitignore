@@ -1,4 +1,6 @@
 data
 .idea
 venv
+db.sqlite3
+
 
